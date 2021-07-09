@@ -30,4 +30,4 @@ For any question regarding this project, my preferred method of communication is
 
 <a name='screenshot'></a>
  ## Screenshot 
-![Screenshot](https://github.com/sean-mcelwain//blob/main/screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/sean-mcelwain/E-Commerce_Back_end/main/screenshot.jpg)
