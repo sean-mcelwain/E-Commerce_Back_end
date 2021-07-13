@@ -23,7 +23,7 @@ Once the utility is installed and run, the user can interact with the utility vi
 
 <a name='questions'></a>
  ## Questions 
-GitHub Profile: https://github.com/sean-mcelwain.  
+
 Contact Me: sean.mcelwain.KUBootcamp@gmail.com.  
  
 For any question regarding this project, my preferred method of communication is via email. 
